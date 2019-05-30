@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu May 30 22:39:29 CST 2019
+0.baseType=DIRECTORY
+0.base=D\:\\Android\\WorkSpace\\Yuye\\iMusicCopy\\app\\build\\intermediates\\transforms\\dexMerger\\imusicDevelop\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

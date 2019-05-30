@@ -1,0 +1,24 @@
+ext {
+    android = [
+         compileSdkVersion : 26,
+         buildToolsVersion : "26.0.2",
+         minSdkVersion     : 16,
+         targetSdkVersion  : 26,
+         devMinSdk         : 16
+    ]
+    app=[
+         applicationId  : "com.android.imusic_copy",
+         versionCode    : 10111,
+         versionName    : "1.1.1"
+    ]
+    music=[
+            versionCode    : 10110,
+            versionName    : "1.1.0",
+            bintrayVersion    : '1.1.0'
+    ]
+    video=[
+            versionCode    : 1,
+            versionName    : "1.0.1",
+            bintrayVersion    : '1.0.1'
+    ]
+}
